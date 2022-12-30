@@ -1,4 +1,5 @@
-# token
+# token 
+## Deployed @ https://ecw5b-miaaa-aaaam-abama-cai.ic0.app/
 
 Welcome to your new token project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
